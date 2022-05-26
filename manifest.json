@@ -8,7 +8,6 @@
         "lib/data/userSpawns.json": "50fa11179c14e3d5ff0f92d73f62f968331258e85e534102cde03dd6ad977463",
         "lib/index.js": "e62e8398c0441b85cf3d8506fbfbb6ec88601ff2f0b7134e5ffe8e27ec3a46cc",
         "lib/setting_migration.js": "1821fbb5ed37672bd9a8daa54f8ab392e35aa6c38b1602c560865b3bf6a7c6a2",
-        "module.config.json": "fccfa1f9e19b11a6d58abbc07369f696ed9ea3873e263f6a2adf8e04d672d4d4",
         "module.json": "31d7ec206111a48cebaff66cee0915f19fd9448173342a825d228e67d4179e2b",
         "package.json": "d4eeb41ee08880b6309fd1c12a00030a03841d346e2c958266db7040660763bd"
     },
